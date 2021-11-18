@@ -60,9 +60,7 @@ class Router {
 
                 if($att instanceof Security) {
                     if($att->mustConnected && !isset($_SESSION['isConnected'])) {
-                        header('location: /login');die;
-                            $response = new Response('', 307, ['location: '. $this->getPath('login')]);
-                            $response->display();
+
                     }
                 }
 
