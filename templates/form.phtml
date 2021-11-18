@@ -1,0 +1,9 @@
+<form method="POST">
+    <label for="mood">Humeur</label>
+    <input type="text" name="mood" id="mood" placeholder="Je vais bien !">
+    <input type="submit" name="envoyer" value="Envoyer">
+</form>
+
+<ul>
+    {{ moods|raw }}
+</ul>

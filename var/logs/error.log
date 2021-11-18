@@ -1,0 +1,150 @@
+2021-11-18 13:25:27 - Controller not found for path /registe
+array (
+  'routes' => 
+  array (
+    0 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'deleteMood',
+       'path' => '/deleteMood',
+       'controller' => 'src\\Controller\\DeleteMood',
+    )),
+    1 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'form',
+       'path' => '/form',
+       'controller' => 'src\\Controller\\Form',
+    )),
+    2 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'accueil',
+       'path' => '/home',
+       'controller' => 'src\\Controller\\Home',
+    )),
+    3 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'info',
+       'path' => '/info',
+       'controller' => 'src\\Controller\\Info',
+    )),
+    4 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'pasdaccord',
+       'path' => '/pasdaccord',
+       'controller' => 'src\\Controller\\Pasdaccord',
+    )),
+    5 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'query',
+       'path' => '/query',
+       'controller' => 'src\\Controller\\Query',
+    )),
+    6 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'register',
+       'path' => '/register',
+       'controller' => 'src\\Controller\\Register',
+    )),
+  ),
+)
+2021-11-18 13:32:06 - Controller not found for path /home/register
+array (
+  'routes' => 
+  array (
+    0 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'deleteMood',
+       'path' => '/deleteMood',
+       'controller' => 'src\\Controller\\DeleteMood',
+    )),
+    1 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'form',
+       'path' => '/form',
+       'controller' => 'src\\Controller\\Form',
+    )),
+    2 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'accueil',
+       'path' => '/home',
+       'controller' => 'src\\Controller\\Home',
+    )),
+    3 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'info',
+       'path' => '/info',
+       'controller' => 'src\\Controller\\Info',
+    )),
+    4 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'pasdaccord',
+       'path' => '/pasdaccord',
+       'controller' => 'src\\Controller\\Pasdaccord',
+    )),
+    5 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'query',
+       'path' => '/query',
+       'controller' => 'src\\Controller\\Query',
+    )),
+    6 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'register',
+       'path' => '/register',
+       'controller' => 'src\\Controller\\Register',
+    )),
+  ),
+)
+2021-11-18 15:13:48 - Controller not found for path /logout
+array (
+  'routes' => 
+  array (
+    0 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'deleteMood',
+       'path' => '/deleteMood',
+       'controller' => 'src\\Controller\\DeleteMood',
+    )),
+    1 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'form',
+       'path' => '/form',
+       'controller' => 'src\\Controller\\Form',
+    )),
+    2 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'accueil',
+       'path' => '/home',
+       'controller' => 'src\\Controller\\Home',
+    )),
+    3 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'info',
+       'path' => '/info',
+       'controller' => 'src\\Controller\\Info',
+    )),
+    4 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'login',
+       'path' => '/login',
+       'controller' => 'src\\Controller\\Login',
+    )),
+    5 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'pasdaccord',
+       'path' => '/pasdaccord',
+       'controller' => 'src\\Controller\\Pasdaccord',
+    )),
+    6 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'query',
+       'path' => '/query',
+       'controller' => 'src\\Controller\\Query',
+    )),
+    7 => 
+    src\Router\Routes::__set_state(array(
+       'nameRoute' => 'register',
+       'path' => '/register',
+       'controller' => 'src\\Controller\\Register',
+    )),
+  ),
+)

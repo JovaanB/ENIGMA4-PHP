@@ -1,0 +1,9 @@
+<form method="POST">
+    <label for="message">message</label>
+    <input type="text" name="message" id="message" required>
+    <input type="submit" name="envoyer" value="Envoyer">
+</form>
+
+<ul>
+    {{ chats|raw }}
+</ul>

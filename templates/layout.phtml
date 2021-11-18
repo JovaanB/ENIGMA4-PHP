@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <title>MON SITE | ENIGMA</title>
+</head>
+
+<body>
+    <h1>MON SITE | ENIGMA</h1>
+    <p>
+        <a href="{{ path(accueil) }}">Home</a>
+        <a href="{{ path(info) }}">Info</a>
+        <a href="{{ path(query, {"name":"Jovan"}) }}">Query</a>
+        <a href="{{ path(form) }}">Form</a>
+        <a href="{{ path(pasdaccord) }}">Chat</a>
+        <a href="{{ path(register) }}">Créer un compte</a>
+        <a href="{{ path(login) }}">Se connecter</a>
+        <a href="logout">Déconnexion</a>
+    </p>
+
+    {{ content|raw }}
+</body>
+
+</html>
